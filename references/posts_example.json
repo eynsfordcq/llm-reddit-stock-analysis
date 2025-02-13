@@ -1,0 +1,1106 @@
+{
+    "kind": "Listing",
+    "data": {
+        "after": "t3_1inajyk",
+        "dist": 5,
+        "modhash": "mkxxgzzw3n59ab58216460ca8f93f8853686638d20a62032c9",
+        "geo_filter": "",
+        "children": [
+            {
+                "kind": "t3",
+                "data": {
+                    "approved_at_utc": null,
+                    "subreddit": "wallstreetbets",
+                    "selftext": "",
+                    "author_fullname": "t2_hig1urbcb",
+                    "saved": false,
+                    "mod_reason_title": null,
+                    "gilded": 0,
+                    "clicked": false,
+                    "title": "$PLTR",
+                    "link_flair_richtext": [
+                        {
+                            "e": "text",
+                            "t": "Meme"
+                        }
+                    ],
+                    "subreddit_name_prefixed": "r/wallstreetbets",
+                    "hidden": false,
+                    "pwls": 7,
+                    "link_flair_css_class": "",
+                    "downs": 0,
+                    "thumbnail_height": 140,
+                    "top_awarded_type": null,
+                    "hide_score": false,
+                    "name": "t3_1ina1e3",
+                    "quarantine": false,
+                    "link_flair_text_color": "dark",
+                    "upvote_ratio": 0.98,
+                    "author_flair_background_color": null,
+                    "ups": 3371,
+                    "total_awards_received": 0,
+                    "media_embed": {},
+                    "thumbnail_width": 140,
+                    "author_flair_template_id": null,
+                    "is_original_content": false,
+                    "user_reports": [],
+                    "secure_media": null,
+                    "is_reddit_media_domain": true,
+                    "is_meta": false,
+                    "category": null,
+                    "secure_media_embed": {},
+                    "link_flair_text": "Meme",
+                    "can_mod_post": false,
+                    "score": 3371,
+                    "approved_by": null,
+                    "is_created_from_ads_ui": false,
+                    "author_premium": false,
+                    "thumbnail": "https://b.thumbs.redditmedia.com/yX1HEGPVueC6XZ-GJdVdEl76D6BLc44K42rs6xMvRSU.jpg",
+                    "edited": false,
+                    "author_flair_css_class": null,
+                    "author_flair_richtext": [],
+                    "gildings": {},
+                    "post_hint": "image",
+                    "content_categories": null,
+                    "is_self": false,
+                    "subreddit_type": "public",
+                    "created": 1739309472.0,
+                    "link_flair_type": "richtext",
+                    "wls": 7,
+                    "removed_by_category": null,
+                    "banned_by": null,
+                    "author_flair_type": "text",
+                    "domain": "i.redd.it",
+                    "allow_live_comments": false,
+                    "selftext_html": null,
+                    "likes": null,
+                    "suggested_sort": "confidence",
+                    "banned_at_utc": null,
+                    "url_overridden_by_dest": "https://i.redd.it/2y2wuog1wkie1.jpeg",
+                    "view_count": null,
+                    "archived": false,
+                    "no_follow": false,
+                    "is_crosspostable": true,
+                    "pinned": false,
+                    "over_18": false,
+                    "preview": {
+                        "images": [
+                            {
+                                "source": {
+                                    "url": "https://preview.redd.it/2y2wuog1wkie1.jpeg?auto=webp&amp;s=7c43471e495fe3af562fd3ec9772151b6370ce81",
+                                    "width": 500,
+                                    "height": 597
+                                },
+                                "resolutions": [
+                                    {
+                                        "url": "https://preview.redd.it/2y2wuog1wkie1.jpeg?width=108&amp;crop=smart&amp;auto=webp&amp;s=2d11f845638e4be4a69aab02757095667d34b5dd",
+                                        "width": 108,
+                                        "height": 128
+                                    },
+                                    {
+                                        "url": "https://preview.redd.it/2y2wuog1wkie1.jpeg?width=216&amp;crop=smart&amp;auto=webp&amp;s=ed464f59184ae284fe31b6fcb5c384a9ab3c1982",
+                                        "width": 216,
+                                        "height": 257
+                                    },
+                                    {
+                                        "url": "https://preview.redd.it/2y2wuog1wkie1.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=a05ae7579323254efa300485cf0d15454caa5113",
+                                        "width": 320,
+                                        "height": 382
+                                    }
+                                ],
+                                "variants": {},
+                                "id": "khkINCe53Ek6slo6R6JuPZjpXFzSeix8Z2H_1aZFKO4"
+                            }
+                        ],
+                        "enabled": true
+                    },
+                    "all_awardings": [],
+                    "awarders": [],
+                    "media_only": false,
+                    "link_flair_template_id": "d798a224-b973-11ef-a7e7-d606063d31a6",
+                    "can_gild": false,
+                    "spoiler": false,
+                    "locked": false,
+                    "author_flair_text": null,
+                    "treatment_tags": [],
+                    "visited": false,
+                    "removed_by": null,
+                    "mod_note": null,
+                    "distinguished": null,
+                    "subreddit_id": "t5_2th52",
+                    "author_is_blocked": false,
+                    "mod_reason_by": null,
+                    "num_reports": null,
+                    "removal_reason": null,
+                    "link_flair_background_color": "#20b3df",
+                    "id": "1ina1e3",
+                    "is_robot_indexable": true,
+                    "report_reasons": null,
+                    "author": "Virtual_Seaweed7130",
+                    "discussion_type": null,
+                    "num_comments": 212,
+                    "send_replies": true,
+                    "contest_mode": false,
+                    "mod_reports": [],
+                    "author_patreon_flair": false,
+                    "author_flair_text_color": null,
+                    "permalink": "/r/wallstreetbets/comments/1ina1e3/pltr/",
+                    "stickied": false,
+                    "url": "https://i.redd.it/2y2wuog1wkie1.jpeg",
+                    "subreddit_subscribers": 17704237,
+                    "created_utc": 1739309472.0,
+                    "num_crossposts": 0,
+                    "media": null,
+                    "is_video": false
+                }
+            },
+            {
+                "kind": "t3",
+                "data": {
+                    "approved_at_utc": null,
+                    "subreddit": "wallstreetbets",
+                    "selftext": "If you didn\u2019t buy the dip, you don\u2019t like money",
+                    "author_fullname": "t2_abvk2l4l",
+                    "saved": false,
+                    "mod_reason_title": null,
+                    "gilded": 0,
+                    "clicked": false,
+                    "title": "I bought the dipshit dip.",
+                    "link_flair_richtext": [
+                        {
+                            "e": "text",
+                            "t": "Gain"
+                        }
+                    ],
+                    "subreddit_name_prefixed": "r/wallstreetbets",
+                    "hidden": false,
+                    "pwls": 7,
+                    "link_flair_css_class": "profit",
+                    "downs": 0,
+                    "thumbnail_height": 140,
+                    "top_awarded_type": null,
+                    "hide_score": false,
+                    "name": "t3_1in1kkn",
+                    "quarantine": false,
+                    "link_flair_text_color": "light",
+                    "upvote_ratio": 0.96,
+                    "author_flair_background_color": null,
+                    "ups": 2945,
+                    "total_awards_received": 0,
+                    "media_embed": {},
+                    "thumbnail_width": 140,
+                    "author_flair_template_id": null,
+                    "is_original_content": false,
+                    "user_reports": [],
+                    "secure_media": null,
+                    "is_reddit_media_domain": true,
+                    "is_meta": false,
+                    "category": null,
+                    "secure_media_embed": {},
+                    "link_flair_text": "Gain",
+                    "can_mod_post": false,
+                    "score": 2945,
+                    "approved_by": null,
+                    "is_created_from_ads_ui": false,
+                    "author_premium": false,
+                    "thumbnail": "https://b.thumbs.redditmedia.com/U2G4M6MvrT6HmBNl2LUk0KaQkX9JO3SSPDMqTpVyYig.jpg",
+                    "edited": false,
+                    "author_flair_css_class": null,
+                    "author_flair_richtext": [],
+                    "gildings": {},
+                    "post_hint": "image",
+                    "content_categories": null,
+                    "is_self": false,
+                    "subreddit_type": "public",
+                    "created": 1739288768.0,
+                    "link_flair_type": "richtext",
+                    "wls": 7,
+                    "removed_by_category": null,
+                    "banned_by": null,
+                    "author_flair_type": "text",
+                    "domain": "i.redd.it",
+                    "allow_live_comments": false,
+                    "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;If you didn\u2019t buy the dip, you don\u2019t like money&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+                    "likes": null,
+                    "suggested_sort": "confidence",
+                    "banned_at_utc": null,
+                    "url_overridden_by_dest": "https://i.redd.it/eqgksqjh6jie1.jpeg",
+                    "view_count": null,
+                    "archived": false,
+                    "no_follow": false,
+                    "is_crosspostable": true,
+                    "pinned": false,
+                    "over_18": false,
+                    "preview": {
+                        "images": [
+                            {
+                                "source": {
+                                    "url": "https://preview.redd.it/eqgksqjh6jie1.jpeg?auto=webp&amp;s=6ec32f5d7672c14e09ce2855381fee12b5dfefe0",
+                                    "width": 1320,
+                                    "height": 2868
+                                },
+                                "resolutions": [
+                                    {
+                                        "url": "https://preview.redd.it/eqgksqjh6jie1.jpeg?width=108&amp;crop=smart&amp;auto=webp&amp;s=8d6dab22aee86cd8d4766dca782a8763617ebdef",
+                                        "width": 108,
+                                        "height": 216
+                                    },
+                                    {
+                                        "url": "https://preview.redd.it/eqgksqjh6jie1.jpeg?width=216&amp;crop=smart&amp;auto=webp&amp;s=93d23571e5acde02143b010da97846fb662b78bb",
+                                        "width": 216,
+                                        "height": 432
+                                    },
+                                    {
+                                        "url": "https://preview.redd.it/eqgksqjh6jie1.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=d4e449f20bd44d3f9de2a6ed36aa5b93715cd432",
+                                        "width": 320,
+                                        "height": 640
+                                    },
+                                    {
+                                        "url": "https://preview.redd.it/eqgksqjh6jie1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=85c44a521772793992edb8d79d8a035c497e7002",
+                                        "width": 640,
+                                        "height": 1280
+                                    },
+                                    {
+                                        "url": "https://preview.redd.it/eqgksqjh6jie1.jpeg?width=960&amp;crop=smart&amp;auto=webp&amp;s=7cab30fa92bc08768da2107ce11f06251f911d66",
+                                        "width": 960,
+                                        "height": 1920
+                                    },
+                                    {
+                                        "url": "https://preview.redd.it/eqgksqjh6jie1.jpeg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=6672ad0f3349e0babc0a72112edc59465b35da55",
+                                        "width": 1080,
+                                        "height": 2160
+                                    }
+                                ],
+                                "variants": {},
+                                "id": "4d4LvUxQW6ssScpg53ljM_a_VPUEiDbmVqeOxKw-t2g"
+                            }
+                        ],
+                        "enabled": true
+                    },
+                    "all_awardings": [],
+                    "awarders": [],
+                    "media_only": false,
+                    "link_flair_template_id": "6bd9394c-0a95-11e9-82db-0eb3a11267a0",
+                    "can_gild": false,
+                    "spoiler": false,
+                    "locked": false,
+                    "author_flair_text": null,
+                    "treatment_tags": [],
+                    "visited": false,
+                    "removed_by": null,
+                    "mod_note": null,
+                    "distinguished": null,
+                    "subreddit_id": "t5_2th52",
+                    "author_is_blocked": false,
+                    "mod_reason_by": null,
+                    "num_reports": null,
+                    "removal_reason": null,
+                    "link_flair_background_color": "#349e48",
+                    "id": "1in1kkn",
+                    "is_robot_indexable": true,
+                    "report_reasons": null,
+                    "author": "Few-Rich7352",
+                    "discussion_type": null,
+                    "num_comments": 333,
+                    "send_replies": true,
+                    "contest_mode": false,
+                    "mod_reports": [],
+                    "author_patreon_flair": false,
+                    "author_flair_text_color": null,
+                    "permalink": "/r/wallstreetbets/comments/1in1kkn/i_bought_the_dipshit_dip/",
+                    "stickied": false,
+                    "url": "https://i.redd.it/eqgksqjh6jie1.jpeg",
+                    "subreddit_subscribers": 17704237,
+                    "created_utc": 1739288768.0,
+                    "num_crossposts": 0,
+                    "media": null,
+                    "is_video": false
+                }
+            },
+            {
+                "kind": "t3",
+                "data": {
+                    "approved_at_utc": null,
+                    "subreddit": "wallstreetbets",
+                    "selftext": "Never played with 0DTE options before so decided to try them out today. Went from a $1000 gain goal to $10k to $20k to $30k to \u201cjust one more trade\u201d just to always jump back in again. Was down a LOT multiple times (last image) but somehow revenge traded my way back up to a 60k gain\n\nThe stress was worth it, but the risk was definitely not. Can\u2019t see myself doing this again, cause I know I\u2019ll lose it all and then some based on what I did today and also since this was on margin\n\n(Not all trades shown, just enough to show that they were all made today)",
+                    "author_fullname": "t2_nuks51r",
+                    "saved": false,
+                    "mod_reason_title": null,
+                    "gilded": 0,
+                    "clicked": false,
+                    "is_gallery": true,
+                    "title": "Tried day trading today",
+                    "link_flair_richtext": [
+                        {
+                            "e": "text",
+                            "t": "Gain"
+                        }
+                    ],
+                    "subreddit_name_prefixed": "r/wallstreetbets",
+                    "hidden": false,
+                    "pwls": 7,
+                    "link_flair_css_class": "profit",
+                    "downs": 0,
+                    "thumbnail_height": 140,
+                    "top_awarded_type": null,
+                    "hide_score": false,
+                    "media_metadata": {
+                        "qneoqj58dlie1": {
+                            "status": "valid",
+                            "e": "Image",
+                            "m": "image/jpg",
+                            "p": [
+                                {
+                                    "y": 216,
+                                    "x": 108,
+                                    "u": "https://preview.redd.it/qneoqj58dlie1.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=d6ae2c906e2d849b532e22bf803d412cbede978c"
+                                },
+                                {
+                                    "y": 432,
+                                    "x": 216,
+                                    "u": "https://preview.redd.it/qneoqj58dlie1.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=17c3ba4c9e6e664c4d3a0539003505e872c4d862"
+                                },
+                                {
+                                    "y": 640,
+                                    "x": 320,
+                                    "u": "https://preview.redd.it/qneoqj58dlie1.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=f6e7504e0428e2374c3a68f40f2d230a33b71e44"
+                                },
+                                {
+                                    "y": 1280,
+                                    "x": 640,
+                                    "u": "https://preview.redd.it/qneoqj58dlie1.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=4e4755cfc4e3e76169352d2c5aa1eec6001caa31"
+                                },
+                                {
+                                    "y": 1920,
+                                    "x": 960,
+                                    "u": "https://preview.redd.it/qneoqj58dlie1.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=88cdcfd0f26d03ea69dec580def9bf2d48e9de23"
+                                },
+                                {
+                                    "y": 2160,
+                                    "x": 1080,
+                                    "u": "https://preview.redd.it/qneoqj58dlie1.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=246e05b0b5683a2311294e09ec93f7daa24d7d41"
+                                }
+                            ],
+                            "s": {
+                                "y": 2778,
+                                "x": 1284,
+                                "u": "https://preview.redd.it/qneoqj58dlie1.jpg?width=1284&amp;format=pjpg&amp;auto=webp&amp;s=0bb7ea36dde5910012a701b83a7c7916c19ded48"
+                            },
+                            "id": "qneoqj58dlie1"
+                        },
+                        "wnarsj58dlie1": {
+                            "status": "valid",
+                            "e": "Image",
+                            "m": "image/jpg",
+                            "p": [
+                                {
+                                    "y": 216,
+                                    "x": 108,
+                                    "u": "https://preview.redd.it/wnarsj58dlie1.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=2a853eee94bb77f88380098b50c09b9a7cdd503c"
+                                },
+                                {
+                                    "y": 432,
+                                    "x": 216,
+                                    "u": "https://preview.redd.it/wnarsj58dlie1.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=88d1224deb7b069466ba435a610c83941719d07c"
+                                },
+                                {
+                                    "y": 640,
+                                    "x": 320,
+                                    "u": "https://preview.redd.it/wnarsj58dlie1.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=9cf5b6ecca968cd18ed29717bddc51d103cd1388"
+                                },
+                                {
+                                    "y": 1280,
+                                    "x": 640,
+                                    "u": "https://preview.redd.it/wnarsj58dlie1.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=807efc1ff8f62f9263b454be9a3394bdc5c57ef9"
+                                },
+                                {
+                                    "y": 1920,
+                                    "x": 960,
+                                    "u": "https://preview.redd.it/wnarsj58dlie1.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=c94bdd0b0e869d04299902125d83f530f5e70b50"
+                                },
+                                {
+                                    "y": 2160,
+                                    "x": 1080,
+                                    "u": "https://preview.redd.it/wnarsj58dlie1.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=834d3dc0a958712d5805518831067a74aa3ee5eb"
+                                }
+                            ],
+                            "s": {
+                                "y": 2778,
+                                "x": 1284,
+                                "u": "https://preview.redd.it/wnarsj58dlie1.jpg?width=1284&amp;format=pjpg&amp;auto=webp&amp;s=898f7ac2abfe7cad54c974ff41ef40c2ee5c6b03"
+                            },
+                            "id": "wnarsj58dlie1"
+                        },
+                        "q25ddj58dlie1": {
+                            "status": "valid",
+                            "e": "Image",
+                            "m": "image/jpg",
+                            "p": [
+                                {
+                                    "y": 216,
+                                    "x": 108,
+                                    "u": "https://preview.redd.it/q25ddj58dlie1.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=0e99913fb7de9c223e70cd74333ba181a43b14bc"
+                                },
+                                {
+                                    "y": 432,
+                                    "x": 216,
+                                    "u": "https://preview.redd.it/q25ddj58dlie1.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=6d51c899927bcf7aa051a2eb5a77150d966ce72c"
+                                },
+                                {
+                                    "y": 640,
+                                    "x": 320,
+                                    "u": "https://preview.redd.it/q25ddj58dlie1.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=3493e3fa50d8db585308d5453c29d3f51397addf"
+                                },
+                                {
+                                    "y": 1280,
+                                    "x": 640,
+                                    "u": "https://preview.redd.it/q25ddj58dlie1.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=311ad448148e54f6a5cd9a22bf56c3e39ed70c27"
+                                },
+                                {
+                                    "y": 1920,
+                                    "x": 960,
+                                    "u": "https://preview.redd.it/q25ddj58dlie1.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=d08c22d6699cd4bd586ab416c033ae691e460a20"
+                                },
+                                {
+                                    "y": 2160,
+                                    "x": 1080,
+                                    "u": "https://preview.redd.it/q25ddj58dlie1.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=7e97d1f807b55eca9387c09e554b349329d5100f"
+                                }
+                            ],
+                            "s": {
+                                "y": 2778,
+                                "x": 1284,
+                                "u": "https://preview.redd.it/q25ddj58dlie1.jpg?width=1284&amp;format=pjpg&amp;auto=webp&amp;s=096f43234d375b1ecf9eb35290c8572633d63fb3"
+                            },
+                            "id": "q25ddj58dlie1"
+                        },
+                        "vzkazj58dlie1": {
+                            "status": "valid",
+                            "e": "Image",
+                            "m": "image/jpg",
+                            "p": [
+                                {
+                                    "y": 216,
+                                    "x": 108,
+                                    "u": "https://preview.redd.it/vzkazj58dlie1.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=f3d4c38889fc09639cc8ad8392e749669b5e528e"
+                                },
+                                {
+                                    "y": 432,
+                                    "x": 216,
+                                    "u": "https://preview.redd.it/vzkazj58dlie1.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=cc0204782793c248f353ab110abc7a73a01ff72f"
+                                },
+                                {
+                                    "y": 640,
+                                    "x": 320,
+                                    "u": "https://preview.redd.it/vzkazj58dlie1.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=a5901d015acea124b140c86fc75c07e7d0199646"
+                                },
+                                {
+                                    "y": 1280,
+                                    "x": 640,
+                                    "u": "https://preview.redd.it/vzkazj58dlie1.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=423d220bceba3ed7eedec73c071f9585488da86a"
+                                },
+                                {
+                                    "y": 1920,
+                                    "x": 960,
+                                    "u": "https://preview.redd.it/vzkazj58dlie1.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=9e923b139e6e959af975039beff83e8b7785b7d2"
+                                },
+                                {
+                                    "y": 2160,
+                                    "x": 1080,
+                                    "u": "https://preview.redd.it/vzkazj58dlie1.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=6eb72941790ba6fc08fc017849c581016cdeb340"
+                                }
+                            ],
+                            "s": {
+                                "y": 2571,
+                                "x": 1284,
+                                "u": "https://preview.redd.it/vzkazj58dlie1.jpg?width=1284&amp;format=pjpg&amp;auto=webp&amp;s=06d2e531b9b0076357aa83b0c35702c514aa1fad"
+                            },
+                            "id": "vzkazj58dlie1"
+                        },
+                        "045u4k58dlie1": {
+                            "status": "valid",
+                            "e": "Image",
+                            "m": "image/jpg",
+                            "p": [
+                                {
+                                    "y": 216,
+                                    "x": 108,
+                                    "u": "https://preview.redd.it/045u4k58dlie1.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=f7d30b37e7b63511dfc29eeda9654005385a9ee8"
+                                },
+                                {
+                                    "y": 432,
+                                    "x": 216,
+                                    "u": "https://preview.redd.it/045u4k58dlie1.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=176e617730588bac041bb0ea54c10310a34b7cc0"
+                                },
+                                {
+                                    "y": 640,
+                                    "x": 320,
+                                    "u": "https://preview.redd.it/045u4k58dlie1.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=2d3b977397d8ef98097e1cae580125d98731eb0e"
+                                },
+                                {
+                                    "y": 1280,
+                                    "x": 640,
+                                    "u": "https://preview.redd.it/045u4k58dlie1.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d6ce64cb96ee58e202f6adaab2a4ccadfa5fdd95"
+                                },
+                                {
+                                    "y": 1920,
+                                    "x": 960,
+                                    "u": "https://preview.redd.it/045u4k58dlie1.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=6ff231b538fdb40d748028ea085fb97fc6dd9870"
+                                },
+                                {
+                                    "y": 2160,
+                                    "x": 1080,
+                                    "u": "https://preview.redd.it/045u4k58dlie1.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=94b64d0468eefad6a8883e9a18f6ccbe8d757b4e"
+                                }
+                            ],
+                            "s": {
+                                "y": 2778,
+                                "x": 1284,
+                                "u": "https://preview.redd.it/045u4k58dlie1.jpg?width=1284&amp;format=pjpg&amp;auto=webp&amp;s=a0b097c020498eb04600bc7b82243d8355e97815"
+                            },
+                            "id": "045u4k58dlie1"
+                        },
+                        "lzk6zj58dlie1": {
+                            "status": "valid",
+                            "e": "Image",
+                            "m": "image/jpg",
+                            "p": [
+                                {
+                                    "y": 216,
+                                    "x": 108,
+                                    "u": "https://preview.redd.it/lzk6zj58dlie1.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=26744eaa9f56d7c6d3081d27432b53f2b99e689d"
+                                },
+                                {
+                                    "y": 432,
+                                    "x": 216,
+                                    "u": "https://preview.redd.it/lzk6zj58dlie1.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=a263d5b46c29850c54f0db7b98abf49c8813ce1b"
+                                },
+                                {
+                                    "y": 640,
+                                    "x": 320,
+                                    "u": "https://preview.redd.it/lzk6zj58dlie1.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=4f10597a854988f3115fa340b1ad7018f042fa45"
+                                },
+                                {
+                                    "y": 1280,
+                                    "x": 640,
+                                    "u": "https://preview.redd.it/lzk6zj58dlie1.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8259bf6fa202b8c81a9c27b5b477b2985d3783d6"
+                                },
+                                {
+                                    "y": 1920,
+                                    "x": 960,
+                                    "u": "https://preview.redd.it/lzk6zj58dlie1.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=10a202c9de9a8b7d0d4916d27de161b4272e79c8"
+                                },
+                                {
+                                    "y": 2160,
+                                    "x": 1080,
+                                    "u": "https://preview.redd.it/lzk6zj58dlie1.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=772dbdd6ad473cfdb6505e713edf59df1a6587ba"
+                                }
+                            ],
+                            "s": {
+                                "y": 2778,
+                                "x": 1284,
+                                "u": "https://preview.redd.it/lzk6zj58dlie1.jpg?width=1284&amp;format=pjpg&amp;auto=webp&amp;s=1d2c4307890b0084238a6df4246ca97f1aa46ccc"
+                            },
+                            "id": "lzk6zj58dlie1"
+                        },
+                        "19uz4k58dlie1": {
+                            "status": "valid",
+                            "e": "Image",
+                            "m": "image/jpg",
+                            "p": [
+                                {
+                                    "y": 30,
+                                    "x": 108,
+                                    "u": "https://preview.redd.it/19uz4k58dlie1.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=6567f4ae7bd9a9afb648971c446a7602fc47e9f8"
+                                },
+                                {
+                                    "y": 61,
+                                    "x": 216,
+                                    "u": "https://preview.redd.it/19uz4k58dlie1.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=a5d2c5a54f98909f3530a205221a7cdbd16d4c69"
+                                },
+                                {
+                                    "y": 91,
+                                    "x": 320,
+                                    "u": "https://preview.redd.it/19uz4k58dlie1.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=3765bc17117d7793a38ee786b28c6d9c84fd666e"
+                                },
+                                {
+                                    "y": 182,
+                                    "x": 640,
+                                    "u": "https://preview.redd.it/19uz4k58dlie1.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e80fa99dedba365dd566adc248a431e2ebb8dd53"
+                                },
+                                {
+                                    "y": 274,
+                                    "x": 960,
+                                    "u": "https://preview.redd.it/19uz4k58dlie1.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=f5abf79da77efdcb4f0b30e551279c5ba0dacea9"
+                                },
+                                {
+                                    "y": 308,
+                                    "x": 1080,
+                                    "u": "https://preview.redd.it/19uz4k58dlie1.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=16efa72ba375d6034b2266b820a99fcf7efd00e9"
+                                }
+                            ],
+                            "s": {
+                                "y": 367,
+                                "x": 1284,
+                                "u": "https://preview.redd.it/19uz4k58dlie1.jpg?width=1284&amp;format=pjpg&amp;auto=webp&amp;s=3ff079727faa7aa3aa04869260c709ac3e27c8c3"
+                            },
+                            "id": "19uz4k58dlie1"
+                        }
+                    },
+                    "name": "t3_1incb90",
+                    "quarantine": false,
+                    "link_flair_text_color": "light",
+                    "upvote_ratio": 0.94,
+                    "author_flair_background_color": "#75fe43",
+                    "ups": 2389,
+                    "domain": "reddit.com",
+                    "media_embed": {},
+                    "thumbnail_width": 140,
+                    "author_flair_template_id": "fcd68b90-54db-11ed-9bef-96c7006da0c1",
+                    "is_original_content": false,
+                    "user_reports": [],
+                    "secure_media": null,
+                    "is_reddit_media_domain": false,
+                    "is_meta": false,
+                    "category": null,
+                    "secure_media_embed": {},
+                    "gallery_data": {
+                        "items": [
+                            {
+                                "media_id": "vzkazj58dlie1",
+                                "id": 603625281
+                            },
+                            {
+                                "media_id": "lzk6zj58dlie1",
+                                "id": 603625282
+                            },
+                            {
+                                "media_id": "045u4k58dlie1",
+                                "id": 603625283
+                            },
+                            {
+                                "media_id": "q25ddj58dlie1",
+                                "id": 603625284
+                            },
+                            {
+                                "media_id": "qneoqj58dlie1",
+                                "id": 603625285
+                            },
+                            {
+                                "media_id": "wnarsj58dlie1",
+                                "id": 603625286
+                            },
+                            {
+                                "media_id": "19uz4k58dlie1",
+                                "id": 603625287
+                            }
+                        ]
+                    },
+                    "link_flair_text": "Gain",
+                    "can_mod_post": false,
+                    "score": 2389,
+                    "approved_by": null,
+                    "is_created_from_ads_ui": false,
+                    "author_premium": false,
+                    "thumbnail": "https://b.thumbs.redditmedia.com/5CLKjkbREe_RUChXrTxCmL5UcRraADUSJsioiRUPIjU.jpg",
+                    "edited": false,
+                    "author_flair_css_class": null,
+                    "author_flair_richtext": [
+                        {
+                            "e": "text",
+                            "t": "makes sentences out of stock tickers"
+                        }
+                    ],
+                    "gildings": {},
+                    "content_categories": null,
+                    "is_self": false,
+                    "subreddit_type": "public",
+                    "created": 1739315248.0,
+                    "link_flair_type": "richtext",
+                    "wls": 7,
+                    "removed_by_category": null,
+                    "banned_by": null,
+                    "author_flair_type": "richtext",
+                    "total_awards_received": 0,
+                    "allow_live_comments": false,
+                    "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Never played with 0DTE options before so decided to try them out today. Went from a $1000 gain goal to $10k to $20k to $30k to \u201cjust one more trade\u201d just to always jump back in again. Was down a LOT multiple times (last image) but somehow revenge traded my way back up to a 60k gain&lt;/p&gt;\n\n&lt;p&gt;The stress was worth it, but the risk was definitely not. Can\u2019t see myself doing this again, cause I know I\u2019ll lose it all and then some based on what I did today and also since this was on margin&lt;/p&gt;\n\n&lt;p&gt;(Not all trades shown, just enough to show that they were all made today)&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+                    "likes": null,
+                    "suggested_sort": "confidence",
+                    "banned_at_utc": null,
+                    "url_overridden_by_dest": "https://www.reddit.com/gallery/1incb90",
+                    "view_count": null,
+                    "archived": false,
+                    "no_follow": false,
+                    "is_crosspostable": true,
+                    "pinned": false,
+                    "over_18": false,
+                    "all_awardings": [],
+                    "awarders": [],
+                    "media_only": false,
+                    "link_flair_template_id": "6bd9394c-0a95-11e9-82db-0eb3a11267a0",
+                    "can_gild": false,
+                    "spoiler": false,
+                    "locked": false,
+                    "author_flair_text": "makes sentences out of stock tickers",
+                    "treatment_tags": [],
+                    "visited": false,
+                    "removed_by": null,
+                    "mod_note": null,
+                    "distinguished": null,
+                    "subreddit_id": "t5_2th52",
+                    "author_is_blocked": false,
+                    "mod_reason_by": null,
+                    "num_reports": null,
+                    "removal_reason": null,
+                    "link_flair_background_color": "#349e48",
+                    "id": "1incb90",
+                    "is_robot_indexable": true,
+                    "report_reasons": null,
+                    "author": "i_only_like_2d_girls",
+                    "discussion_type": null,
+                    "num_comments": 377,
+                    "send_replies": true,
+                    "contest_mode": false,
+                    "mod_reports": [],
+                    "author_patreon_flair": false,
+                    "author_flair_text_color": "dark",
+                    "permalink": "/r/wallstreetbets/comments/1incb90/tried_day_trading_today/",
+                    "stickied": false,
+                    "url": "https://www.reddit.com/gallery/1incb90",
+                    "subreddit_subscribers": 17704237,
+                    "created_utc": 1739315248.0,
+                    "num_crossposts": 0,
+                    "media": null,
+                    "is_video": false
+                }
+            },
+            {
+                "kind": "t3",
+                "data": {
+                    "approved_at_utc": null,
+                    "subreddit": "wallstreetbets",
+                    "selftext": "",
+                    "author_fullname": "t2_1dov9dshv4",
+                    "saved": false,
+                    "mod_reason_title": null,
+                    "gilded": 0,
+                    "clicked": false,
+                    "title": "Magnificent Eight - Net Income Comparison",
+                    "link_flair_richtext": [
+                        {
+                            "e": "text",
+                            "t": "Discussion"
+                        }
+                    ],
+                    "subreddit_name_prefixed": "r/wallstreetbets",
+                    "hidden": false,
+                    "pwls": 7,
+                    "link_flair_css_class": "question",
+                    "downs": 0,
+                    "thumbnail_height": 140,
+                    "top_awarded_type": null,
+                    "hide_score": false,
+                    "name": "t3_1inmin6",
+                    "quarantine": false,
+                    "link_flair_text_color": "light",
+                    "upvote_ratio": 0.97,
+                    "author_flair_background_color": null,
+                    "ups": 2245,
+                    "total_awards_received": 0,
+                    "media_embed": {},
+                    "thumbnail_width": 140,
+                    "author_flair_template_id": null,
+                    "is_original_content": false,
+                    "user_reports": [],
+                    "secure_media": null,
+                    "is_reddit_media_domain": true,
+                    "is_meta": false,
+                    "category": null,
+                    "secure_media_embed": {},
+                    "link_flair_text": "Discussion",
+                    "can_mod_post": false,
+                    "score": 2245,
+                    "approved_by": null,
+                    "is_created_from_ads_ui": false,
+                    "author_premium": false,
+                    "thumbnail": "https://a.thumbs.redditmedia.com/_9zeejLWpARLq_s_b0Oxs-ZfGE2sHxL9rSSVq2UMca4.jpg",
+                    "edited": false,
+                    "author_flair_css_class": null,
+                    "author_flair_richtext": [],
+                    "gildings": {},
+                    "post_hint": "image",
+                    "content_categories": null,
+                    "is_self": false,
+                    "subreddit_type": "public",
+                    "created": 1739349365.0,
+                    "link_flair_type": "richtext",
+                    "wls": 7,
+                    "removed_by_category": null,
+                    "banned_by": null,
+                    "author_flair_type": "text",
+                    "domain": "i.redd.it",
+                    "allow_live_comments": true,
+                    "selftext_html": null,
+                    "likes": null,
+                    "suggested_sort": "confidence",
+                    "banned_at_utc": null,
+                    "url_overridden_by_dest": "https://i.redd.it/ragrngmh6oie1.png",
+                    "view_count": null,
+                    "archived": false,
+                    "no_follow": false,
+                    "is_crosspostable": true,
+                    "pinned": false,
+                    "over_18": false,
+                    "preview": {
+                        "images": [
+                            {
+                                "source": {
+                                    "url": "https://preview.redd.it/ragrngmh6oie1.png?auto=webp&amp;s=39fe385054f442338e7a165fd0c76b48c8ef3d09",
+                                    "width": 4500,
+                                    "height": 6000
+                                },
+                                "resolutions": [
+                                    {
+                                        "url": "https://preview.redd.it/ragrngmh6oie1.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=00ce8cbe724671ab549851bbc7e7a054b1181414",
+                                        "width": 108,
+                                        "height": 144
+                                    },
+                                    {
+                                        "url": "https://preview.redd.it/ragrngmh6oie1.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=05e9388aa8c2dfc951756987932bb417294b504a",
+                                        "width": 216,
+                                        "height": 288
+                                    },
+                                    {
+                                        "url": "https://preview.redd.it/ragrngmh6oie1.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=2f65a71ea92f74343b7c792d0deafa686587774e",
+                                        "width": 320,
+                                        "height": 426
+                                    },
+                                    {
+                                        "url": "https://preview.redd.it/ragrngmh6oie1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=360983979c779c17f327129d7b8597d95c07f5d6",
+                                        "width": 640,
+                                        "height": 853
+                                    },
+                                    {
+                                        "url": "https://preview.redd.it/ragrngmh6oie1.png?width=960&amp;crop=smart&amp;auto=webp&amp;s=3ca923035adae5d5753e6d7a5c7bf9ff20e8288d",
+                                        "width": 960,
+                                        "height": 1280
+                                    },
+                                    {
+                                        "url": "https://preview.redd.it/ragrngmh6oie1.png?width=1080&amp;crop=smart&amp;auto=webp&amp;s=7ed776f3c342b098087372c9b23f1190924bca31",
+                                        "width": 1080,
+                                        "height": 1440
+                                    }
+                                ],
+                                "variants": {},
+                                "id": "DNri6t4V54AHKDNLz8zkd7BgJH73-eRj_5K_CTFBBPk"
+                            }
+                        ],
+                        "enabled": true
+                    },
+                    "all_awardings": [],
+                    "awarders": [],
+                    "media_only": false,
+                    "link_flair_template_id": "96f6c79e-b853-11e5-a4cb-0ebdf030e05d",
+                    "can_gild": false,
+                    "spoiler": false,
+                    "locked": false,
+                    "author_flair_text": null,
+                    "treatment_tags": [],
+                    "visited": false,
+                    "removed_by": null,
+                    "mod_note": null,
+                    "distinguished": null,
+                    "subreddit_id": "t5_2th52",
+                    "author_is_blocked": false,
+                    "mod_reason_by": null,
+                    "num_reports": null,
+                    "removal_reason": null,
+                    "link_flair_background_color": "#800080",
+                    "id": "1inmin6",
+                    "is_robot_indexable": true,
+                    "report_reasons": null,
+                    "author": "Prudent-Corgi3793",
+                    "discussion_type": null,
+                    "num_comments": 278,
+                    "send_replies": true,
+                    "contest_mode": false,
+                    "mod_reports": [],
+                    "author_patreon_flair": false,
+                    "author_flair_text_color": null,
+                    "permalink": "/r/wallstreetbets/comments/1inmin6/magnificent_eight_net_income_comparison/",
+                    "stickied": false,
+                    "url": "https://i.redd.it/ragrngmh6oie1.png",
+                    "subreddit_subscribers": 17704237,
+                    "created_utc": 1739349365.0,
+                    "num_crossposts": 1,
+                    "media": null,
+                    "is_video": false
+                }
+            },
+            {
+                "kind": "t3",
+                "data": {
+                    "approved_at_utc": null,
+                    "subreddit": "wallstreetbets",
+                    "selftext": "Used some profits from last year on this trade.(BABA, RKLB, SOFI, PYPL)\nI know most of you idiots do 0dte but position trading is the way to go imo. \n\nSold my May position today at the price above. May reload a bounce.\n\nPlease Uncle Sam no more short term cap gains.",
+                    "author_fullname": "t2_b5of3",
+                    "saved": false,
+                    "mod_reason_title": null,
+                    "gilded": 0,
+                    "clicked": false,
+                    "title": "TSLA \ud83e\ude73 Gain \ud83d\udcb0",
+                    "link_flair_richtext": [
+                        {
+                            "e": "text",
+                            "t": "Gain"
+                        }
+                    ],
+                    "subreddit_name_prefixed": "r/wallstreetbets",
+                    "hidden": false,
+                    "pwls": 7,
+                    "link_flair_css_class": "profit",
+                    "downs": 0,
+                    "thumbnail_height": 117,
+                    "top_awarded_type": null,
+                    "hide_score": false,
+                    "name": "t3_1inajyk",
+                    "quarantine": false,
+                    "link_flair_text_color": "light",
+                    "upvote_ratio": 0.95,
+                    "author_flair_background_color": null,
+                    "ups": 696,
+                    "total_awards_received": 0,
+                    "media_embed": {},
+                    "thumbnail_width": 140,
+                    "author_flair_template_id": null,
+                    "is_original_content": false,
+                    "user_reports": [],
+                    "secure_media": null,
+                    "is_reddit_media_domain": true,
+                    "is_meta": false,
+                    "category": null,
+                    "secure_media_embed": {},
+                    "link_flair_text": "Gain",
+                    "can_mod_post": false,
+                    "score": 696,
+                    "approved_by": null,
+                    "is_created_from_ads_ui": false,
+                    "author_premium": false,
+                    "thumbnail": "https://b.thumbs.redditmedia.com/DPUTxzsOGUED-OxMFCF4zj0SHykqdAYxe_xb56JQDKo.jpg",
+                    "edited": false,
+                    "author_flair_css_class": null,
+                    "author_flair_richtext": [],
+                    "gildings": {},
+                    "post_hint": "image",
+                    "content_categories": null,
+                    "is_self": false,
+                    "subreddit_type": "public",
+                    "created": 1739310787.0,
+                    "link_flair_type": "richtext",
+                    "wls": 7,
+                    "removed_by_category": null,
+                    "banned_by": null,
+                    "author_flair_type": "text",
+                    "domain": "i.redd.it",
+                    "allow_live_comments": false,
+                    "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Used some profits from last year on this trade.(BABA, RKLB, SOFI, PYPL)\nI know most of you idiots do 0dte but position trading is the way to go imo. &lt;/p&gt;\n\n&lt;p&gt;Sold my May position today at the price above. May reload a bounce.&lt;/p&gt;\n\n&lt;p&gt;Please Uncle Sam no more short term cap gains.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+                    "likes": null,
+                    "suggested_sort": "confidence",
+                    "banned_at_utc": null,
+                    "url_overridden_by_dest": "https://i.redd.it/ku9ll8iyzkie1.jpeg",
+                    "view_count": null,
+                    "archived": false,
+                    "no_follow": false,
+                    "is_crosspostable": true,
+                    "pinned": false,
+                    "over_18": false,
+                    "preview": {
+                        "images": [
+                            {
+                                "source": {
+                                    "url": "https://preview.redd.it/ku9ll8iyzkie1.jpeg?auto=webp&amp;s=ac4a75dc7aad2b9d4632f902f97b380d1d20d0a6",
+                                    "width": 1205,
+                                    "height": 1015
+                                },
+                                "resolutions": [
+                                    {
+                                        "url": "https://preview.redd.it/ku9ll8iyzkie1.jpeg?width=108&amp;crop=smart&amp;auto=webp&amp;s=7905336ff1278f970c7dc56ded56df0881d6d42b",
+                                        "width": 108,
+                                        "height": 90
+                                    },
+                                    {
+                                        "url": "https://preview.redd.it/ku9ll8iyzkie1.jpeg?width=216&amp;crop=smart&amp;auto=webp&amp;s=bc4a1b58da1e4895b2971ff6c567f047892e7d8c",
+                                        "width": 216,
+                                        "height": 181
+                                    },
+                                    {
+                                        "url": "https://preview.redd.it/ku9ll8iyzkie1.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=70d5ee5187b2daeed074c9cd31454fc93fbe86eb",
+                                        "width": 320,
+                                        "height": 269
+                                    },
+                                    {
+                                        "url": "https://preview.redd.it/ku9ll8iyzkie1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c574250720aa88cfe394a95ed225171fec116996",
+                                        "width": 640,
+                                        "height": 539
+                                    },
+                                    {
+                                        "url": "https://preview.redd.it/ku9ll8iyzkie1.jpeg?width=960&amp;crop=smart&amp;auto=webp&amp;s=4cc79bdd2e047f96a1281816e76c9bcb0bbe16b1",
+                                        "width": 960,
+                                        "height": 808
+                                    },
+                                    {
+                                        "url": "https://preview.redd.it/ku9ll8iyzkie1.jpeg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=94b04edec55a4d57fba42ac0dd4635da519b2ada",
+                                        "width": 1080,
+                                        "height": 909
+                                    }
+                                ],
+                                "variants": {},
+                                "id": "dJwIKZMfh1-ufEMC3OYZ0rvL6XI0jxeppTVVYKLgtEE"
+                            }
+                        ],
+                        "enabled": true
+                    },
+                    "all_awardings": [],
+                    "awarders": [],
+                    "media_only": false,
+                    "link_flair_template_id": "6bd9394c-0a95-11e9-82db-0eb3a11267a0",
+                    "can_gild": false,
+                    "spoiler": false,
+                    "locked": false,
+                    "author_flair_text": null,
+                    "treatment_tags": [],
+                    "visited": false,
+                    "removed_by": null,
+                    "mod_note": null,
+                    "distinguished": null,
+                    "subreddit_id": "t5_2th52",
+                    "author_is_blocked": false,
+                    "mod_reason_by": null,
+                    "num_reports": null,
+                    "removal_reason": null,
+                    "link_flair_background_color": "#349e48",
+                    "id": "1inajyk",
+                    "is_robot_indexable": true,
+                    "report_reasons": null,
+                    "author": "Goldinismyname",
+                    "discussion_type": null,
+                    "num_comments": 69,
+                    "send_replies": true,
+                    "contest_mode": false,
+                    "mod_reports": [],
+                    "author_patreon_flair": false,
+                    "author_flair_text_color": null,
+                    "permalink": "/r/wallstreetbets/comments/1inajyk/tsla_gain/",
+                    "stickied": false,
+                    "url": "https://i.redd.it/ku9ll8iyzkie1.jpeg",
+                    "subreddit_subscribers": 17704237,
+                    "created_utc": 1739310787.0,
+                    "num_crossposts": 0,
+                    "media": null,
+                    "is_video": false
+                }
+            }
+        ],
+        "before": null
+    }
+}
