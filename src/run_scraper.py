@@ -1,12 +1,14 @@
-import sys
 import logging
-from helpers import reddit, llm, telegram
+import sys
+
 from configs import config
+from helpers import minio, reddit
 
 logging.basicConfig(
     level=logging.INFO,
     format='%(asctime)s - %(levelname)s - %(message)s'
 )
+
 
 if __name__ == "__main__":
     logging.info("start process.")
@@ -20,7 +22,5 @@ if __name__ == "__main__":
     if not scraped_data:
         logging.warning("no data.")
         sys.exit(1)
-    
-    analysis, usage = llm.generate_response(scraped_data)
-    telegram.send_message(analysis, usage)
-    logging.info("end process.")
+
+    minio.write_to_minio(scraped_data)

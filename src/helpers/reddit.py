@@ -1,7 +1,9 @@
 import logging
-import requests
 import time
-from models.reddit import SubredditData, RedditPost, Comment
+
+import requests
+
+from models.reddit import Comment, RedditPost, SubredditData
 
 
 def fetch_top_posts(subreddit: str, limit: int = 20) -> SubredditData:
