@@ -1,3 +1,4 @@
+import json
 import logging
 import sys
 
@@ -13,14 +14,14 @@ logging.basicConfig(
 if __name__ == "__main__":
     logging.info("start process.")
     subs = config.reddit_subs
-    scraped_data = ""
+    scraped_data = []
     for sub in subs:
         subreddit_data = reddit.fetch_top_posts(sub, config.reddit_top_n_posts)
         if subreddit_data:
-            scraped_data += subreddit_data.model_dump_json()
+            scraped_data.append(subreddit_data.model_dump())
 
     if not scraped_data:
         logging.warning("no data.")
         sys.exit(1)
 
-    minio.write_to_minio(scraped_data)
+    minio.write_to_minio(json.dumps(scraped_data))
