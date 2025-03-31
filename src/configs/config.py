@@ -6,6 +6,7 @@ load_dotenv()
 
 telegram_bot_token = os.getenv("TELEGRAM_BOT_TOKEN")
 telegram_chat_id = os.getenv("TELEGRAM_CHAT_ID")
+telegram_max_length = 4096
 llm_api_key = os.getenv("LLM_API_KEY")
 llm_model = os.getenv("LLM_MODEL")
 minio_bucket = os.getenv("MINIO_BUCKET")
