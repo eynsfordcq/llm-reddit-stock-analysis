@@ -12,7 +12,7 @@ logging.basicConfig(
 
 def valid_date(date_str):
     try:
-        return datetime.strptime(date_str, "%Y%m%d")
+        return datetime.strptime(date_str, "%Y%m%d%H")
     except ValueError:
         raise argparse.ArgumentTypeError(
             f"Invalid date: {date_str}. Expected format YYYYMMDD."
@@ -27,17 +27,16 @@ def parse_args():
         "--date",
         type=valid_date,
         default=None,
-        help="Date filter in YYYYMMDD format. Defaults to current date if not provided.",
+        help="Date filter in YYYYMMDDHH format. Defaults to current date if not provided.",
     )
     return parser.parse_args()
 
 if __name__ == "__main__":
     args = parse_args()
     date_obj = args.date or datetime.now()
-    date_str = date_obj.strftime("%Y%m%d")
-    logging.info(f"fetching data for: {date_str}.")
+    logging.info(f"fetching data for: {date_obj}.")
 
-    scraped_data = minio.read_from_minio(date_str)
+    scraped_data = minio.read_from_minio(date_obj)
     if not scraped_data:
         logging.warning("no data.")
         sys.exit(1)

@@ -1,5 +1,5 @@
 import logging
-from datetime import datetime
+from datetime import datetime, timedelta
 
 import boto3
 from botocore.client import Config
@@ -34,24 +34,41 @@ def write_to_minio(scraped_data):
     except Exception as e:
         logging.error(f"write_to_minio() error: {e}")
 
-def read_from_minio(date: str):
+def read_from_minio(end_date: datetime):
+    start_date = end_date - timedelta(hours=24)
+    partitions = set()
+    current_date = start_date.date()
+    while current_date <= end_date.date():
+        partitions.add(current_date)
+        current_date += timedelta(days=1)
+
     s3_client = _get_client()
     bucket = config.minio_bucket
     content = []
-    prefix = f"raw/date_record={date}/"
-    try:
-        response = s3_client.list_objects_v2(**{"Bucket": bucket, "Prefix": prefix})
-        for obj in response.get("Contents", []):
-            key = obj.get("Key", "")
-            if key.endswith(".json"):
-                file_obj = s3_client.get_object(Bucket=bucket, Key=key)
-                file_content = file_obj["Body"].read().decode("utf-8")
-                content.append(file_content)
+    # Process each partition separately
+    for partition in partitions:
+        prefix = partition.strftime("raw/date_record=%Y%m%d/")
+        try:
+            response = s3_client.list_objects_v2(Bucket=bucket, Prefix=prefix)
+            for obj in response.get("Contents", []):
+                key = obj.get("Key", "")
+                # Expect key format: YYYYMMDD_HH.json
+                try:
+                    file_timestamp = datetime.strptime(key.split("/")[-1].replace(".json", ""), "%Y%m%d_%H")
+                except ValueError:
+                    logging.debug(f"Skipping key {key}: does not match expected format.")
+                    continue
 
-        if not content:
-            logging.warning("No JSON files found in the bucket.")
-    except Exception as e:
-        logging.error(f"read_all_json_files() error: {e}")
-        return content
+                # Process file if its timestamp is within the desired range
+                if start_date <= file_timestamp <= end_date:
+                    logging.info(f"Fetching: {key} for processing.")
+                    file_obj = s3_client.get_object(Bucket=bucket, Key=key)
+                    file_content = file_obj["Body"].read().decode("utf-8")
+                    content.append(file_content)
+        except Exception as e:
+            logging.error(f"Error processing partition {partition}: {e}")
+
+    if not content:
+        logging.warning("No JSON files found in the last 24 hours.")
 
     return content
