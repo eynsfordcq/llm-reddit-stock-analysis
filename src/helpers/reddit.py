@@ -8,7 +8,7 @@ from models.reddit import Comment, RedditPost, SubredditData
 
 def fetch_top_posts(subreddit: str, limit: int = 20) -> SubredditData:
     try:
-        url = f"https://www.reddit.com/r/{subreddit}/top.json?t=day&limit={limit}"
+        url = f"https://www.reddit.com/r/{subreddit}/top.json?t=hour&limit={limit}"
         response = requests.get(url, headers={"User-Agent": "Mozilla/5.0"})
         data = response.json()
         
